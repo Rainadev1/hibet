@@ -1,2 +1,2 @@
-# hibet
+# hicet
 college name
